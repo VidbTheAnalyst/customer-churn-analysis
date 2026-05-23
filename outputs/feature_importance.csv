@@ -1,0 +1,32 @@
+Feature,Coefficient
+total_charges,0.7204328899753675
+internet_service_Fiber optic,0.2780542132510809
+paperless_billing_Yes,0.19846261949164426
+partner_Yes,0.15650565475728168
+payment_method_Electronic check,0.12658875093683342
+monthly_charges,0.11400155969100279
+multiple_lines_Yes,0.10335610640271642
+multiple_lines_No phone service,0.08683779366847359
+streaming_movies_Yes,0.07207245693594555
+senior_citizen_Yes,0.04805372463355857
+streaming_tv_Yes,0.03224470064545467
+cltv,0.02215914613615786
+gender_Male,-0.0078004546941772765
+payment_method_Mailed check,-0.012700854236025778
+device_protection_Yes,-0.014744979477043271
+streaming_movies_No internet service,-0.04008454379365969
+streaming_tv_No internet service,-0.04008454379365969
+tech_support_No internet service,-0.04008454379365969
+online_backup_No internet service,-0.04008454379365969
+internet_service_No,-0.04008454379365969
+online_security_No internet service,-0.04008454379365969
+device_protection_No internet service,-0.04008454379365969
+payment_method_Credit card (automatic),-0.07308134913987105
+online_backup_Yes,-0.07469889309587872
+phone_service_Yes,-0.08683779366847298
+tech_support_Yes,-0.15840834915818183
+online_security_Yes,-0.194195612455412
+contract_One year,-0.2657053450661535
+contract_Two year,-0.5965194917269842
+dependents_Yes,-0.633394493078553
+tenure_months,-1.484623112976118
